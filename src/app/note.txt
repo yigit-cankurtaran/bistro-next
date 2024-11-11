@@ -1,0 +1,12 @@
+- new name = NuZZret
+  - ZZ is red, the other letters are green
+  - copyrighted as NuZZret cafe bistro
+
+- make a homepage that shows an arrow to the left for pizza
+  - another one to the right for burgers
+- i can use the same design for both
+  - get the pizzas from their yemeksepeti.com
+  - you already have the burgers on the prototype project
+    - improve the cards for better SEO
+    - implement next/head and next/image and next/link
+
